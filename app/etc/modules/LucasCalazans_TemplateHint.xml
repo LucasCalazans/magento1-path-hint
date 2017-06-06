@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <LucasCalazans_TemplateHint>
+            <active>true</active>
+            <codePool>local</codePool>
+        </LucasCalazans_TemplateHint>
+    </modules>
+</config>
